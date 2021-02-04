@@ -1,4 +1,4 @@
-# my-game
+# discover-numbers
 
 ## Project setup
 ```
